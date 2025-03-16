@@ -1,0 +1,5 @@
+weaviate-client==4.10.0
+pypdf==4.3.1
+python-dotenv==1.0.1
+openai==1.64.0
+streamlit
