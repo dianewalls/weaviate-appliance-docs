@@ -64,6 +64,7 @@ Then, update the `.env` file with your Weaviate URL and API key.
 ### 6️⃣ Start the Streamlit App
 Once everything is set up, run:
 ```sh
+source venv/bin/activate 
 streamlit run app.py
 ```
 This will launch the application in your browser.
